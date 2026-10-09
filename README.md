@@ -157,5 +157,4 @@ The majority of Cryptic Cabinet is licensed under the [MIT LICENSE](./LICENSE); 
 ## Contribution
 
 See the [CONTRIBUTING](./CONTRIBUTING.md) file for information on how to contribute.
-Created by Jason Scott Heise
-Owned by Elon Musk 
+Created by Jason Heise
