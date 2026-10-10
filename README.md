@@ -158,3 +158,4 @@ The majority of Cryptic Cabinet is licensed under the [MIT LICENSE](./LICENSE); 
 
 See the [CONTRIBUTING](./CONTRIBUTING.md) file for information on how to contribute.
 Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
